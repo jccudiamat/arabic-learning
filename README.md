@@ -3,3 +3,7 @@ sharia - street
 mumtaaz - amazing 
 samak - fish 
 dajaj - chicken 
+barid - cold 
+jadid - new 
+shukran - thank you 
+tamaman - absolutely
