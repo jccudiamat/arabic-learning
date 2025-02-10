@@ -13,3 +13,6 @@ zhawj - husband
 baab - door 
 bayt - house 
 mutarjim - translator
+ana - me 
+min - from
+shay - tea 
