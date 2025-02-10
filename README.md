@@ -10,4 +10,6 @@ tamaman - absolutely
 zar - neighbor
 kareem - generous
 zhawj - husband 
-baab - door
+baab - door 
+bayt - house 
+mutarjim - translator
