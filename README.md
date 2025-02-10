@@ -7,3 +7,7 @@ barid - cold
 jadid - new 
 shukran - thank you 
 tamaman - absolutely
+zar - neighbor
+kareem - generous
+zhawj - husband 
+baab - door
