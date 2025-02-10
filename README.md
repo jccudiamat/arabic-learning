@@ -1,1 +1,3 @@
-# arabic-learning
+# arabic-learning 
+sharia - street 
+mumtaaz - amazing
