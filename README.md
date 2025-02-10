@@ -1,3 +1,5 @@
 # arabic-learning 
 sharia - street 
-mumtaaz - amazing
+mumtaaz - amazing 
+samak - fish 
+dajaj - chicken 
