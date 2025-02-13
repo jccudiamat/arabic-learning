@@ -17,3 +17,4 @@ ana - me
 min - from
 shay - tea 
 bint - girl
+imraa - woman
