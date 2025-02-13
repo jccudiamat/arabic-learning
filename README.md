@@ -19,3 +19,4 @@ shay - tea
 bint - girl
 imraa - woman
 walad - boy 
+sariyah - fast
