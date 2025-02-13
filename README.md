@@ -20,3 +20,4 @@ bint - girl
 imraa - woman
 walad - boy 
 sariyah - fast
+sahiid - happy
