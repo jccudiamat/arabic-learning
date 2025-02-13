@@ -18,3 +18,4 @@ min - from
 shay - tea 
 bint - girl
 imraa - woman
+walad - boy 
