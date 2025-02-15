@@ -28,3 +28,4 @@ khalas - done/finish
 ustaadh - professor
 marhaban - hello
 afwan - you're welcome
+sadeeq - friend
