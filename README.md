@@ -23,3 +23,4 @@ sariyah - fast
 sahiid - happy
 rajul - man
 mumtiya - fun
+jayyid - good
