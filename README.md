@@ -25,4 +25,4 @@ rajul - man
 mumtiya - fun
 jayyid - good
 khalas - done/finish
-ustada - professor
+ustaadh - professor
