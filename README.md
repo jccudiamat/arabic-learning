@@ -27,3 +27,4 @@ jayyid - good
 khalas - done/finish
 ustaadh - professor
 marhaban - hello
+afwan - you're welcome
