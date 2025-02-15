@@ -26,3 +26,4 @@ mumtiya - fun
 jayyid - good
 khalas - done/finish
 ustaadh - professor
+marhaban - hello
