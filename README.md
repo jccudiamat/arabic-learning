@@ -33,3 +33,4 @@ na'am - yes
 la - no
 min fadlak/fadlik - please
 asif/asifa - sorry
+sabbah al-khair - goodmorning
