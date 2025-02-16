@@ -34,3 +34,4 @@ la - no
 min fadlak/fadlik - please
 asif/asifa - sorry
 sabah al-khair - goodmorning
+masa al-khair - goodafternoon
