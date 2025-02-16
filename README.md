@@ -26,6 +26,6 @@ mumtiya - fun
 jayyid - good
 khalas - done/finish
 ustaadh - professor
-marhaban - hello
+marhaba - hello
 afwan - you're welcome
 sadeeq - friend
