@@ -30,3 +30,4 @@ marhaba - hello
 afwan - you're welcome
 sadeeq - friend
 na'am - yes 
+la - no
