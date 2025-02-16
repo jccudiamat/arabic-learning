@@ -31,3 +31,4 @@ afwan - you're welcome
 sadeeq - friend
 na'am - yes 
 la - no
+min fadlak/fadlik - please
