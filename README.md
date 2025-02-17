@@ -36,3 +36,4 @@ asif/asifa - sorry
 sabah al-khair - goodmorning
 masa al-khair - goodafternoon
 anta - you are
+jiddan - very
