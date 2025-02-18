@@ -38,3 +38,4 @@ masa al-khair - goodafternoon
 anta - you are
 jiddan - very
 hiyya - she/she is
+huwwa - he/he is
