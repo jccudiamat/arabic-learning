@@ -42,3 +42,4 @@ huwwa - he/he is
 muhandis - engineer
 ayn - where
 mueallim - teacher
+hal - is
