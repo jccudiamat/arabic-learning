@@ -41,3 +41,4 @@ hiyya - she/she is
 huwwa - he/he is
 muhandis - engineer
 ayn - where
+mu3allam - teacher
