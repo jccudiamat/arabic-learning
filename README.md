@@ -55,3 +55,4 @@ qahwa - coffee
 khubz - bread
 fakiha - fruit
 sayara - car 
+madrasa - school
