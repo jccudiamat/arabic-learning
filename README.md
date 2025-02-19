@@ -27,6 +27,7 @@ jayyid - good
 khalas - done/finish
 ustaadh - professor
 marhaba - hello
+ahalan - hello
 afwan - you're welcome
 sadeeq - friend
 na'am - yes 
