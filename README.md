@@ -37,6 +37,7 @@ asif/asifa - sorry
 sabah al-khair - goodmorning
 masa al-khair - goodafternoon
 anta - you are
+anti - you are
 jiddan - very
 hiyya - she/she is
 huwwa - he/he is
