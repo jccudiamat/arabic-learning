@@ -45,3 +45,4 @@ muhandis - engineer
 ayn - where
 mueallim - teacher
 hal - is
+layla saeeda - goodevening
