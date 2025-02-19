@@ -57,3 +57,4 @@ fakiha - fruit
 sayara - car 
 madrasa - school
 madina - city
+balad - country
