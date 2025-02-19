@@ -46,3 +46,4 @@ ayn - where
 mueallim - teacher
 hal - is
 layla saeeda - goodevening
+how are you - kayfa halak/halik
