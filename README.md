@@ -49,3 +49,4 @@ layla saeeda - goodevening
 how are you - kayfa halak/halik
 bikhayr - fine 
 ismi - my name is
+ta'am - food
