@@ -51,3 +51,4 @@ bikhayr - fine
 ismi - my name is
 ta'am - food
 ma'a - water
+qahwa - coffee
