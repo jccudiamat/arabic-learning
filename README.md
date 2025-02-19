@@ -54,3 +54,4 @@ ma'a - water
 qahwa - coffee
 khubz - bread
 fakiha - fruit
+sayara - car 
