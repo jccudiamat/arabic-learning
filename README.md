@@ -61,3 +61,4 @@ balad - country
 malika - queen
 jameaa - university
 waseaa - spacious
+ghurfa - room
