@@ -54,7 +54,7 @@ ma'a - water
 qahwa - coffee
 khubz - bread
 fakiha - fruit
-sayara - car 
+sayyara - car 
 madrasa - school
 madina - city
 balad - country
