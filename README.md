@@ -60,3 +60,4 @@ madina - city
 balad - country
 malika - queen
 jameaa - university
+waseaa - spacious
