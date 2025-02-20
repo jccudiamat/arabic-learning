@@ -58,3 +58,4 @@ sayara - car
 madrasa - school
 madina - city
 balad - country
+malika - queen
